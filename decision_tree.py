@@ -17,7 +17,7 @@ y = df['Approved']
 
 X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=10)
 
-#train the model and evaluate preformance
+#train the model and evaluate performance
 model = DecisionTreeClassifier(max_depth=4, random_state=10)
 
 #Fit the model on the training data
@@ -36,7 +36,7 @@ plot_tree(model, filled=True, feature_names=X.columns,
 plt.title("Decision Tree Visualization")
 plt.show()
 
-#Evalutate accuracy of the model
+#Evaluate accuracy of the model
 accuracy = model.score(X_test, y_test)
 
 #cross validation

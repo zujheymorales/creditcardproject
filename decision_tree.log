@@ -1,0 +1,8 @@
+2025-10-06 19:54:59,558 - INFO -  === New Run === 
+2025-10-06 19:54:59,561 - INFO - Dataset loaded Successfully
+2025-10-06 19:54:59,563 - INFO - Data split into training and testing sets
+2025-10-06 20:01:33,629 - INFO -  === New Run === 
+2025-10-06 20:01:33,631 - INFO - Dataset loaded Successfully
+2025-10-06 20:01:33,631 - INFO - Data split into training and testing sets
+2025-10-06 20:01:33,648 - INFO - Accuracy: 0.8261
+2025-10-06 20:01:33,649 - INFO - Cross-Validation: 0.8348

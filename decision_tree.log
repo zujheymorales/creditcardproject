@@ -6,3 +6,115 @@
 2025-10-06 20:01:33,631 - INFO - Data split into training and testing sets
 2025-10-06 20:01:33,648 - INFO - Accuracy: 0.8261
 2025-10-06 20:01:33,649 - INFO - Cross-Validation: 0.8348
+2025-10-06 20:12:33,700 - INFO -  === New Run === 
+2025-10-06 20:12:33,702 - INFO - Dataset loaded Successfully
+2025-10-06 20:12:33,703 - INFO - Data split into training and testing sets
+2025-10-06 20:12:33,718 - INFO - Accuracy: 0.8261
+2025-10-06 20:12:33,719 - INFO - Cross-Validation: 0.8348
+2025-10-06 20:12:43,557 - INFO - Evaluation saved to decision_tree.log
+2025-10-06 20:12:43,558 - INFO - Results saved to decision_tree_experiments.csv
+2025-10-07 12:57:20,447 - INFO -  === New Run === 
+2025-10-07 12:57:20,450 - INFO - Dataset loaded Successfully
+2025-10-07 12:57:20,452 - INFO - Data split into training and testing sets
+2025-10-07 12:57:20,469 - INFO - Accuracy: 0.8478
+2025-10-07 12:57:20,469 - INFO - Cross-Validation: 0.8333
+2025-10-07 12:57:43,376 - INFO - Evaluation saved to decision_tree.log
+2025-10-07 12:57:43,378 - INFO - Results saved to decision_tree_experiments.csv
+2025-10-07 12:59:03,715 - INFO -  === New Run === 
+2025-10-07 12:59:03,716 - INFO - Dataset loaded Successfully
+2025-10-07 12:59:03,717 - INFO - Data split into training and testing sets
+2025-10-07 12:59:03,733 - INFO - Accuracy: 0.8478
+2025-10-07 12:59:03,733 - INFO - Cross-Validation: 0.8333
+2025-10-07 12:59:07,329 - INFO - Evaluation saved to decision_tree.log
+2025-10-07 12:59:07,330 - INFO - Results saved to decision_tree_experiments.csv
+2025-10-07 12:59:55,423 - INFO -  === New Run === 
+2025-10-07 12:59:55,425 - INFO - Dataset loaded Successfully
+2025-10-07 12:59:55,426 - INFO - Data split into training and testing sets
+2025-10-07 12:59:55,442 - INFO - Accuracy: 0.8478
+2025-10-07 12:59:55,442 - INFO - Cross-Validation: 0.8333
+2025-10-07 12:59:57,726 - INFO - Evaluation saved to decision_tree.log
+2025-10-07 12:59:57,727 - INFO - Results saved to decision_tree_experiments.csv
+2025-10-07 13:00:31,603 - INFO -  === New Run === 
+2025-10-07 13:00:31,604 - INFO - Dataset loaded Successfully
+2025-10-07 13:00:31,605 - INFO - Data split into training and testing sets
+2025-10-07 13:00:31,621 - INFO - Accuracy: 0.8116
+2025-10-07 13:00:31,621 - INFO - Cross-Validation: 0.8333
+2025-10-07 13:00:34,154 - INFO - Evaluation saved to decision_tree.log
+2025-10-07 13:00:34,155 - INFO - Results saved to decision_tree_experiments.csv
+2025-10-07 13:01:56,185 - INFO -  === New Run === 
+2025-10-07 13:01:56,186 - INFO - Dataset loaded Successfully
+2025-10-07 13:01:56,187 - INFO - Data split into training and testing sets
+2025-10-07 13:01:56,203 - INFO - Accuracy: 0.7971
+2025-10-07 13:01:56,203 - INFO - Cross-Validation: 0.8333
+2025-10-07 13:01:58,928 - INFO - Evaluation saved to decision_tree.log
+2025-10-07 13:01:58,929 - INFO - Results saved to decision_tree_experiments.csv
+2025-10-07 13:02:56,376 - INFO -  === New Run === 
+2025-10-07 13:02:56,378 - INFO - Dataset loaded Successfully
+2025-10-07 13:02:56,379 - INFO - Data split into training and testing sets
+2025-10-07 13:02:56,394 - INFO - Accuracy: 0.8188
+2025-10-07 13:02:56,394 - INFO - Cross-Validation: 0.8348
+2025-10-07 13:02:59,068 - INFO - Evaluation saved to decision_tree.log
+2025-10-07 13:02:59,069 - INFO - Results saved to decision_tree_experiments.csv
+2025-10-07 13:03:32,162 - INFO -  === New Run === 
+2025-10-07 13:03:32,163 - INFO - Dataset loaded Successfully
+2025-10-07 13:03:32,164 - INFO - Data split into training and testing sets
+2025-10-07 13:03:32,181 - INFO - Accuracy: 0.8551
+2025-10-07 13:03:32,181 - INFO - Cross-Validation: 0.8333
+2025-10-07 13:03:34,689 - INFO - Evaluation saved to decision_tree.log
+2025-10-07 13:03:34,690 - INFO - Results saved to decision_tree_experiments.csv
+2025-10-07 13:05:53,980 - INFO -  === New Run === 
+2025-10-07 13:05:53,982 - INFO - Dataset loaded Successfully
+2025-10-07 13:05:53,983 - INFO - Data split into training and testing sets
+2025-10-07 13:05:53,999 - INFO - Accuracy: 0.8696
+2025-10-07 13:05:53,999 - INFO - Cross-Validation: 0.8333
+2025-10-07 13:05:55,833 - INFO - Evaluation saved to decision_tree.log
+2025-10-07 13:05:55,834 - INFO - Results saved to decision_tree_experiments.csv
+2025-10-07 13:06:35,933 - INFO -  === New Run === 
+2025-10-07 13:06:35,935 - INFO - Dataset loaded Successfully
+2025-10-07 13:06:35,936 - INFO - Data split into training and testing sets
+2025-10-07 13:06:35,952 - INFO - Accuracy: 0.8768
+2025-10-07 13:06:35,952 - INFO - Cross-Validation: 0.8348
+2025-10-07 13:07:52,729 - INFO - Evaluation saved to decision_tree.log
+2025-10-07 13:07:52,729 - INFO - Results saved to decision_tree_experiments.csv
+2025-10-07 13:10:10,794 - INFO -  === New Run === 
+2025-10-07 13:10:10,796 - INFO - Dataset loaded Successfully
+2025-10-07 13:10:10,797 - INFO - Data split into training and testing sets
+2025-10-07 13:10:10,812 - INFO - Accuracy: 0.8696
+2025-10-07 13:10:10,812 - INFO - Cross-Validation: 0.8043
+2025-10-07 13:10:20,536 - INFO - Evaluation saved to decision_tree.log
+2025-10-07 13:10:20,537 - INFO - Results saved to decision_tree_experiments.csv
+2025-10-07 13:11:18,755 - INFO -  === New Run === 
+2025-10-07 13:11:18,757 - INFO - Dataset loaded Successfully
+2025-10-07 13:11:18,758 - INFO - Data split into training and testing sets
+2025-10-07 13:11:18,774 - INFO - Accuracy: 0.8623
+2025-10-07 13:11:18,774 - INFO - Cross-Validation: 0.8217
+2025-10-07 13:11:32,689 - INFO - Evaluation saved to decision_tree.log
+2025-10-07 13:11:32,690 - INFO - Results saved to decision_tree_experiments.csv
+2025-10-07 13:13:01,637 - INFO -  === New Run === 
+2025-10-07 13:13:01,638 - INFO - Dataset loaded Successfully
+2025-10-07 13:13:01,639 - INFO - Data split into training and testing sets
+2025-10-07 13:13:01,655 - INFO - Accuracy: 0.8333
+2025-10-07 13:13:01,655 - INFO - Cross-Validation: 0.8333
+2025-10-07 13:13:05,948 - INFO - Evaluation saved to decision_tree.log
+2025-10-07 13:13:05,949 - INFO - Results saved to decision_tree_experiments.csv
+2025-10-07 13:13:44,955 - INFO -  === New Run === 
+2025-10-07 13:13:44,956 - INFO - Dataset loaded Successfully
+2025-10-07 13:13:44,957 - INFO - Data split into training and testing sets
+2025-10-07 13:13:44,973 - INFO - Accuracy: 0.7681
+2025-10-07 13:13:44,973 - INFO - Cross-Validation: 0.8333
+2025-10-07 13:13:47,082 - INFO - Evaluation saved to decision_tree.log
+2025-10-07 13:13:47,083 - INFO - Results saved to decision_tree_experiments.csv
+2025-10-07 13:15:09,714 - INFO -  === New Run === 
+2025-10-07 13:15:09,716 - INFO - Dataset loaded Successfully
+2025-10-07 13:15:09,716 - INFO - Data split into training and testing sets
+2025-10-07 13:15:09,732 - INFO - Accuracy: 0.8768
+2025-10-07 13:15:09,732 - INFO - Cross-Validation: 0.8348
+2025-10-07 13:15:14,315 - INFO - Evaluation saved to decision_tree.log
+2025-10-07 13:15:14,316 - INFO - Results saved to decision_tree_experiments.csv
+2025-10-07 13:22:01,655 - INFO -  === New Run === 
+2025-10-07 13:22:01,656 - INFO - Dataset loaded Successfully
+2025-10-07 13:22:01,657 - INFO - Data split into training and testing sets
+2025-10-07 13:22:01,673 - INFO - Accuracy: 0.8768
+2025-10-07 13:22:01,673 - INFO - Cross-Validation: 0.8348
+2025-10-07 13:22:03,828 - INFO - Evaluation saved to decision_tree.log
+2025-10-07 13:22:03,829 - INFO - Results saved to decision_tree_experiments.csv

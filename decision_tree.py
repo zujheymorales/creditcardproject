@@ -29,11 +29,11 @@ try:
     X = df.drop(columns=['Approved'])
     y = df['Approved']
 
-    X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=10)
+    X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=2)
     logging.info("Data split into training and testing sets")
 
     #====== train the model and evaluate performance ====
-    model = DecisionTreeClassifier(max_depth=4, random_state=10)
+    model = DecisionTreeClassifier(max_depth=4, random_state=2)
 
     #Fit the model on the training data
     model.fit(X_train ,y_train)
@@ -42,7 +42,7 @@ try:
     y_predictions = model.predict(X_test)
 
     features = pd.DataFrame(model.feature_importances_, index=X.columns)
-    features.head(12)
+    features.head(10)
 
     #Evaluate accuracy of the model
     accuracy = model.score(X_test, y_test)
@@ -75,11 +75,11 @@ try:
     logging.info("Evaluation saved to decision_tree.log")
 
 
-    # ==== Save Experiement to CSV ====
-    csv_file = "decision_tree_experiments.csv"
+    # ==== Save Experiment to CSV ====
+    csv_file = "Learning_Model_experiments.csv"
 
     header = [
-        "Timestamp", "Model", "Max Depth","random_state", "Accuracy", "Cross-Validation Score"
+        "Timestamp", "Model", "Max_Depth","random_state", "Accuracy", "Cross-Validation Score"
     ]
     with open(csv_file, mode='a', newline='') as file:
         writer = csv.writer(file)
@@ -89,7 +89,7 @@ try:
             datetime.now().strftime("%Y-%m-%d %H:%M:%S"),
             "Decision Tree",
             4,
-            10,
+            2,
             f"{accuracy:.4f}",
             f"{df_cv_score:.4f}"
         ])
